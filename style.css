@@ -27,16 +27,20 @@ section {
     color: #777;
     background: #ebebeb;
     text-align: center;
+    border-bottom-width: 200px;
+    padding-bottom: 43px;
+    margin-bottom: 0px;
 }
 
 #left-2 {
-    width: 50%;
     color: #777;
     background: #ebebeb;
     text-align: center;
-    float: left;
-    overflow: auto;
-    clear: both;
+    height: 155px;
+    width: 472px;
+    top: 245px;
+    border-bottom-width: 20px;
+    border-top-width: 10px;
     border: 1px solid #ebebeb;
 }
 
